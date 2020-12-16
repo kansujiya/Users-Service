@@ -1,2 +1,2 @@
-# Users-Service
+# User-Service
 Users micro services
